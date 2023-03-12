@@ -23,7 +23,8 @@ namespace Desafio_1
             Application.Exit();
         }
       
-
+        //boton de registro de usuarios 
+        // rediccionamiento a nueva pestaña registro usuarios
         private void boton1_Click(object sender, EventArgs e)
         {
             this.Hide();
@@ -31,7 +32,8 @@ namespace Desafio_1
             formRegistro.ShowDialog();
            
         }
-
+        // inicio de sesion 
+        // validacion de usuario y contraseña
         private void boton2_Click(object sender, EventArgs e)
         {
             TextReader Inicio = new StreamReader(txNombre.Text + ".txt");
@@ -42,6 +44,7 @@ namespace Desafio_1
             }
             else
             {
+            //rediccionamiento a nuevo formulario pantalla principal
                 txNombre.Clear();
                 txContraseña.Clear(); 
                 this.Hide();
