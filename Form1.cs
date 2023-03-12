@@ -16,6 +16,7 @@ namespace Desafio_1
         {
             InitializeComponent();
         }
+        //pantalla incio incremento de barra de carga 
         private void timer1_Tick(object sender, EventArgs e)
         {
             Barracarga.Increment(10);
