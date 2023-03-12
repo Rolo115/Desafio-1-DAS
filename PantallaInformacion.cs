@@ -36,6 +36,7 @@ namespace Desafio_1
             lenguajes.Series["lenguajes"].Points.AddXY("PYTON", "47");
             lenguajes.Series["lenguajes"].Points.AddXY("JAVA", "38");
             lenguajes.Series["lenguajes"].Points.AddXY("JAVASCRIPT", "15");
+           //Esconde todos los elementos a utilizar en pagina principal
             libros.Visible = false;
             programas.Visible = false;
             lenguajes.Visible = false;
@@ -52,7 +53,7 @@ namespace Desafio_1
 
 
         }
-
+//Esconde todos los elementos a utilizar en pagina principal
         private void theMarvelousMrsMaiselToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
@@ -82,7 +83,7 @@ namespace Desafio_1
             imgfondo.Visible = false;
 
         }
-
+//Esconde todos los elementos a utilizar en pagina principal
         private void harryPotterToolStripMenuItem_Click(object sender, EventArgs e)
         {
             rb1.Visible = false;
@@ -112,7 +113,7 @@ namespace Desafio_1
             imgfondo.Visible = false;
 
         }
-
+//Esconde todos los elementos a utilizar en pagina principal
         private void goodsebumpsToolStripMenuItem_Click(object sender, EventArgs e)
         {
             rb1.Visible = false;
@@ -142,7 +143,7 @@ namespace Desafio_1
 
 
         }
-
+//Esconde todos los elementos a utilizar en pagina principal
         private void perryMasonToolStripMenuItem_Click(object sender, EventArgs e)
         {
             rb1.Visible = false;
@@ -169,7 +170,7 @@ namespace Desafio_1
             imgfondo.Visible = false;
 
         }
-
+//Esconde todos los elementos a utilizar en pagina principal
         private void pythonToolStripMenuItem_Click(object sender, EventArgs e)
         {
             rb1.Visible = false;
@@ -198,7 +199,7 @@ namespace Desafio_1
             imgfondo.Visible = false;
 
         }
-
+//Esconde todos los elementos a utilizar en pagina principal
         private void javaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             rb1.Visible = false;
@@ -227,7 +228,7 @@ namespace Desafio_1
             imgfondo.Visible = false;
 
         }
-
+//Esconde todos los elementos a utilizar en pagina principal
         private void javaScriptToolStripMenuItem_Click(object sender, EventArgs e)
         {
             rb1.Visible = false;
@@ -256,7 +257,7 @@ namespace Desafio_1
             imgfondo.Visible = false;
 
         }
-
+//Esconde todos los elementos a utilizar en pagina principal
         private void pantallaGraficosToolStripMenuItem_Click(object sender, EventArgs e)
         {
             rb1.Visible = false;
@@ -286,7 +287,7 @@ namespace Desafio_1
 
 
         }
-
+//Esconde todos los elementos a utilizar en pagina principal
         private void gamesOfTToolStripMenuItem_Click(object sender, EventArgs e)
         {
             rb1.Visible = false;
@@ -314,7 +315,7 @@ namespace Desafio_1
             infografica.Visible = false;
             imgfondo.Visible = false;
         }
-
+//Esconde todos los elementos a utilizar en pagina principal
         private void chernobylToolStripMenuItem_Click(object sender, EventArgs e)
         {
             rb1.Visible = false;
