@@ -1,0 +1,60 @@
+C:\Users\rolan\OneDrive\Escritorio\Nueva carpeta\Desafio 1\obj\Debug\Desafio 1.csproj.AssemblyReference.cache
+C:\Users\rolan\OneDrive\Escritorio\Nueva carpeta\Desafio 1\obj\Debug\Desafio_1.Form1.resources
+C:\Users\rolan\OneDrive\Escritorio\Nueva carpeta\Desafio 1\obj\Debug\Desafio_1.login.resources
+C:\Users\rolan\OneDrive\Escritorio\Nueva carpeta\Desafio 1\obj\Debug\Desafio_1.Properties.Resources.resources
+C:\Users\rolan\OneDrive\Escritorio\Nueva carpeta\Desafio 1\obj\Debug\Desafio 1.csproj.GenerateResource.cache
+C:\Users\rolan\OneDrive\Escritorio\Nueva carpeta\Desafio 1\obj\Debug\Desafio 1.csproj.CoreCompileInputs.cache
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1\bin\Debug\Desafio 1.exe.config
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1\bin\Debug\Desafio 1.exe
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1\bin\Debug\Desafio 1.pdb
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1\obj\Debug\Desafio 1.csproj.AssemblyReference.cache
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1\obj\Debug\Desafio_1.Properties.Resources.resources
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1\obj\Debug\Desafio 1.csproj.GenerateResource.cache
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1\obj\Debug\Desafio 1.csproj.CoreCompileInputs.cache
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1\obj\Debug\Desafio 1.exe
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1\obj\Debug\Desafio 1.pdb
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1\obj\Debug\Desafio_1.RegistroUsuarios.resources
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1\obj\Debug\Desafio_1.PantallaCarga.resources
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1\obj\Debug\Desafio_1.InicioSesion.resources
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1\obj\Debug\Desafio_1.PantallaInformacion.resources
+C:\Users\Ignacio\Desktop\new\Desafio 1\bin\Debug\Desafio 1.exe.config
+C:\Users\Ignacio\Desktop\new\Desafio 1\bin\Debug\Desafio 1.exe
+C:\Users\Ignacio\Desktop\new\Desafio 1\bin\Debug\Desafio 1.pdb
+C:\Users\Ignacio\Desktop\new\Desafio 1\obj\Debug\Desafio 1.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Desktop\new\Desafio 1\obj\Debug\Desafio 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ignacio\Desktop\new\Desafio 1\obj\Debug\Desafio_1.PantallaCarga.resources
+C:\Users\Ignacio\Desktop\new\Desafio 1\obj\Debug\Desafio_1.InicioSesion.resources
+C:\Users\Ignacio\Desktop\new\Desafio 1\obj\Debug\Desafio_1.PantallaInformacion.resources
+C:\Users\Ignacio\Desktop\new\Desafio 1\obj\Debug\Desafio_1.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\new\Desafio 1\obj\Debug\Desafio_1.RegistroUsuarios.resources
+C:\Users\Ignacio\Desktop\new\Desafio 1\obj\Debug\Desafio 1.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\new\Desafio 1\obj\Debug\Desafio 1.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\new\Desafio 1\obj\Debug\Desafio 1.exe
+C:\Users\Ignacio\Desktop\new\Desafio 1\obj\Debug\Desafio 1.pdb
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1(2)1\bin\Debug\Desafio 1.exe.config
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1(2)1\bin\Debug\Desafio 1.exe
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1(2)1\bin\Debug\Desafio 1.pdb
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1(2)1\obj\Debug\Desafio 1.csproj.AssemblyReference.cache
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1(2)1\obj\Debug\Desafio_1.PantallaCarga.resources
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1(2)1\obj\Debug\Desafio_1.InicioSesion.resources
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1(2)1\obj\Debug\Desafio_1.PantallaInformacion.resources
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1(2)1\obj\Debug\Desafio_1.Properties.Resources.resources
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1(2)1\obj\Debug\Desafio_1.RegistroUsuarios.resources
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1(2)1\obj\Debug\Desafio 1.csproj.GenerateResource.cache
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1(2)1\obj\Debug\Desafio 1.csproj.CoreCompileInputs.cache
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1(2)1\obj\Debug\Desafio 1.exe
+C:\Users\rolan\OneDrive\Escritorio\Desafio 1(2)1\obj\Debug\Desafio 1.pdb
+C:\Users\Ignacio\Desktop\new\Desafio 1(2)1\bin\Debug\Desafio 1.exe.config
+C:\Users\Ignacio\Desktop\new\Desafio 1(2)1\bin\Debug\Desafio 1.exe
+C:\Users\Ignacio\Desktop\new\Desafio 1(2)1\bin\Debug\Desafio 1.pdb
+C:\Users\Ignacio\Desktop\new\Desafio 1(2)1\obj\Debug\Desafio 1.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Desktop\new\Desafio 1(2)1\obj\Debug\Desafio 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ignacio\Desktop\new\Desafio 1(2)1\obj\Debug\Desafio_1.PantallaCarga.resources
+C:\Users\Ignacio\Desktop\new\Desafio 1(2)1\obj\Debug\Desafio_1.InicioSesion.resources
+C:\Users\Ignacio\Desktop\new\Desafio 1(2)1\obj\Debug\Desafio_1.PantallaInformacion.resources
+C:\Users\Ignacio\Desktop\new\Desafio 1(2)1\obj\Debug\Desafio_1.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\new\Desafio 1(2)1\obj\Debug\Desafio_1.RegistroUsuarios.resources
+C:\Users\Ignacio\Desktop\new\Desafio 1(2)1\obj\Debug\Desafio 1.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\new\Desafio 1(2)1\obj\Debug\Desafio 1.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\new\Desafio 1(2)1\obj\Debug\Desafio 1.exe
+C:\Users\Ignacio\Desktop\new\Desafio 1(2)1\obj\Debug\Desafio 1.pdb
