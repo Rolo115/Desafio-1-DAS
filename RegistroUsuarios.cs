@@ -18,13 +18,14 @@ namespace Desafio_1
             InitializeComponent();
            
         }
+        //vuelve a la pantalla de inicio (login)
         private void btnVolver_Click_1(object sender, EventArgs e)
         {
             this.Hide();
             InicioSesion formlogin = new InicioSesion();
             formlogin.ShowDialog();
         }
-
+        //guarda la contra, preferencia de informacion y el usuario en la siguiente direcciones locales (simulacionde base de datos)
         private void btnRegistrar_Click(object sender, EventArgs e)
         {
             TextWriter RegistrarUsuario = new StreamWriter(@"C:\Users\Ignacio\Desktop\new\Desafio 1 (2)1\bin\Debug\" + txNombre.Text + ".txt", true);
